@@ -22,3 +22,5 @@ yay -S anydesk
 yay -S anydesk-bin
 yay -S genius
 yay -S ark
+yay -S brave --noconfirm
+xdg-mime default brave.desktop x-scheme-handler/https x-scheme-handler/htt
